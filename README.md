@@ -1,1 +1,1 @@
-This is an assignment from my data science for healthy lifestyle course. You can run the file in QGIS
+This is an assignment from my data science for healthy lifestyle course. You can run the file via QGIS software. There's a tutorial for this assignment, and additionally, there's a combained FAIRdata part for the assignment as well. 
